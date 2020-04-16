@@ -12,8 +12,8 @@ including OutDir, IntDir, Runtime (DLL) etc.
 # Installation #
 
   * git clone [googletest, tested w/ v1.10.x](https://github.com/google/googletest.git)
-  * Create a folder called build in this directory
   * git clone [googletest-x86_x64](https://github.com/sridharb1/googletest-x86_x64.git)
     to another folder
-  * Copy the contents of the folder above to the build folder
+  * Copy the contents of the build folder downloaded above to the root
+    of the googletest source tree.
 
